@@ -10,12 +10,15 @@
 
 ## My Projects
 
-[![Blockchain](https://img.shields.io/badge/-blockchain-purple?style=for-the-badge)](https://github.com/naldodelgado/BlockChainProject)
-[![Delivery Scheduling](https://img.shields.io/badge/-delivery_schedule-green?style=for-the-badge)](https://github.com/tiagorspires/IA-DeliveryScheduling)
-[![SpaceShip Game](https://img.shields.io/badge/-Space_Ship_Game-yellow?style=for-the-badge)](https://github.com/tiagorspires/LDTS-SpaceShip)
+[![Blockchain](https://img.shields.io/badge/-blockchain_:_A_Public_Ledger_For_Auctions-purple?style=for-the-badge)](https://github.com/naldodelgado/BlockChainProject)
+
+
+[![Delivery Scheduling](https://img.shields.io/badge/-Delivery_Schedule_:_optimizing_package_delivery_schedule-darkgreen?style=for-the-badge)](https://github.com/tiagorspires/IA-DeliveryScheduling)
+
+[![SpaceShip Game](https://img.shields.io/badge/-Space_Ship_Game_:_Using_various_design_patterns-blue?style=for-the-badge)](https://github.com/tiagorspires/LDTS-SpaceShip)
 
 ### Projects I was enrolled with
-[![Gzoltar](https://img.shields.io/badge/-GZoltar-brown?style=for-the-badge)](https://github.com/GZoltar/gzoltar)
+[![Gzoltar](https://img.shields.io/badge/-GZoltar_:_library_for_automatic_debugging_of_Java_applications-brown?style=for-the-badge)](https://github.com/GZoltar/gzoltar)
 
 
 
