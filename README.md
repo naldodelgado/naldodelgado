@@ -10,12 +10,14 @@
 
 ## My Projects
 
-[![Blockchain](https://img.shields.io/badge/-blockchain_:_A_Public_Ledger_For_Auctions-purple?style=for-the-badge)](https://github.com/naldodelgado/BlockChainProject)
+[![Blockchain](https://img.shields.io/badge/-blockchain-black?style=for-the-badge)](https://github.com/naldodelgado/BlockChainProject)
+![desc](https://img.shields.io/badge/A_Public_Ledger_For_Auctions-lightgrey?style=for-the-badge)
 
+[![Delivery Scheduling](https://img.shields.io/badge/-Delivery_Schedule-black?style=for-the-badge)](https://github.com/tiagorspires/IA-DeliveryScheduling)
+![desc](https://img.shields.io/badge/optimizing_package_delivery_schedule-lightgrey?style=for-the-badge)
 
-[![Delivery Scheduling](https://img.shields.io/badge/-Delivery_Schedule_:_optimizing_package_delivery_schedule-darkgreen?style=for-the-badge)](https://github.com/tiagorspires/IA-DeliveryScheduling)
-
-[![SpaceShip Game](https://img.shields.io/badge/-Space_Ship_Game_:_Using_various_design_patterns-blue?style=for-the-badge)](https://github.com/tiagorspires/LDTS-SpaceShip)
+[![SpaceShip Game](https://img.shields.io/badge/Space_Ship_Game-black?style=for-the-badge)](https://github.com/tiagorspires/LDTS-SpaceShip)
+![desc](https://img.shields.io/badge/Using_various_design_patterns_to_build_a_game-lightgrey?style=for-the-badge)
 
 ### Projects I was enrolled with
 [![Gzoltar](https://img.shields.io/badge/-GZoltar_:_library_for_automatic_debugging_of_Java_applications-brown?style=for-the-badge)](https://github.com/GZoltar/gzoltar)
