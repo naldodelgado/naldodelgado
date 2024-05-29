@@ -1,11 +1,15 @@
 <div align=center>
-  <h1>Hello there, it's Naldo here 👋</h1> 
+
+  <img href="center" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+
+  <h1>Hello there, it's Naldo here</h1> 
   <h3>Porto, Portugal</h3>
-  <p><strong> Bacherlor's Degree in Informatics and Computing Engineering at FEUP </strong></p>
-  <p><strong> Student of Master's Degree in Network and Informatic Systems</strong></p>
-    
+  <p> Currently: <strong> MSc Degree in Network and Informatic Systems @FCUP</strong></p>
+  
   [![FEUP](https://img.shields.io/badge/-FEUP-red?style=for-the-badge)](https://sigarra.up.pt/feup/pt/web_page.Inicial)
   [![FCUP](https://img.shields.io/badge/-FCUP-blue?style=for-the-badge)](https://sigarra.up.pt/fcup/pt/web_page.Inicial)
+
+  I'm a software developer based in Porto. I'm specializing in Network and Informatic Systems and I'm developing a passion for distributed systems and for ML. Currently, I'm working on building a CDN protoype, just so I can understand how it work and how we can minimize the costs by using your own instead of those provided by CDN providers like Cloudflare and Akamai nand other Cloud providers like GCP, AWS and others. In my free time, I enjoy surfing when the swell comes in, or to play Valorant when the sun is down. Feel free to reach out for collaboration or just to say hi!
 
   <h2>SOME OF MY PROJECTS</h2>
     
@@ -21,6 +25,8 @@
 
 [![SpaceShip Game](https://img.shields.io/badge/Space_Ship_Game-white?style=for-the-badge)](https://github.com/tiagorspires/LDTS-SpaceShip)
 ![desc](https://img.shields.io/badge/Using_various_design_patterns_to_build_a_game-lightgrey?style=for-the-badge)
+
+<sub>:point_up: They are clickable links btw :sweat_smile:</sub> 
 
 ### Projects I was enrolled with
 [![Gzoltar](https://img.shields.io/badge/-GZoltar_:_library_for_automatic_debugging_of_Java_applications-brown?style=for-the-badge)](https://github.com/GZoltar/gzoltar)
