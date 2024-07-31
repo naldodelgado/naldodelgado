@@ -9,7 +9,7 @@
   [![FEUP](https://img.shields.io/badge/-FEUP-red?style=for-the-badge)](https://sigarra.up.pt/feup/pt/web_page.Inicial)
   [![FCUP](https://img.shields.io/badge/-FCUP-blue?style=for-the-badge)](https://sigarra.up.pt/fcup/pt/web_page.Inicial)
 
-I'm specializing in Network and Informatic Systems and I'm developing a passion for distributed systems and for ML. Currently, I'm working on building a CDN protoype, just so I can understand how it work and how we can minimize the costs by using your own instead of those provided by CDN providers like Cloudflare and Akamai nand other Cloud providers like GCP, AWS and others. In my free time, I enjoy surfing when the swell comes in, or to play Valorant when the sun is down. Feel free to reach out for collaboration or just to say hi!
+I'm specializing in Network and Informatic Systems and I'm developing a passion for distributed systems and for ML. Currently, I'm working on building a CDN prototype, just so I can understand how it works and how we can minimize the costs by using your own, instead of using those provided by CDN providers like Cloudflare and Akamai and other Cloud providers like GCP, AWS. In my free time, I enjoy surfing when the swell comes in, or to play Valorant when the sun has set. Feel free to reach out for collaboration or just to say hi!
 
   <h2>SOME OF MY PROJECTS</h2>
     
