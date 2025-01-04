@@ -17,6 +17,9 @@ I'm specializing in Network and Informatic Systems and I'm developing a passion 
 [![Blockchain](https://img.shields.io/badge/-blockchain-white?style=for-the-badge)](https://github.com/naldodelgado/BlockChainProject)
 ![desc](https://img.shields.io/badge/A_Public_Ledger_For_Auctions-lightgrey?style=for-the-badge)
 
+[![P2P TOM algorithm](https://img.shields.io/badge/P2P_TOM_Algorithm-white?style=for-the-badge)](https://github.com/naldodelgado/TOMulticast)
+![desc](https://img.shields.io/badge/Using_lamport_cloccks_to_syncronize_multiple_peers-lightgrey?style=for-the-badge)
+
 [![Delivery Scheduling](https://img.shields.io/badge/-Delivery_Schedule-white?style=for-the-badge)](https://github.com/tiagorspires/IA-DeliveryScheduling)
 ![desc](https://img.shields.io/badge/optimizing_package_delivery_schedule-lightgrey?style=for-the-badge)
 
